@@ -1,3 +1,4 @@
 .env
 card_data_check.csv
 card_data.csv
+.gitignore
